@@ -36,3 +36,4 @@ This code is released under the MIT License.
 - https://github.com/sipeed/MaixPy
 - https://github.com/Schaggo/QR-ARDUINO
 - https://github.com/donny681/ESP32_CAMERA_QR
+- https://github.com/alvarowolfx/ESP32QRCodeReader
